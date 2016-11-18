@@ -1,0 +1,6 @@
+app/etc/modules/Iways_PayPalPlus.xml                            app/etc/modules/Iways_PayPalPlus.xml
+app/code/community/Iways/PayPalPlus                             app/code/community/Iways/PayPalPlus
+app/design/adminhtml/default/default/template/paypalplus        app/design/adminhtml/default/default/template/paypalplus
+app/design/frontend/base/default/layout/iways_paypalplus.xml    app/design/frontend/base/default/layout/iways_paypalplus.xml
+app/design/frontend/base/default/template/paypalplus/           app/design/frontend/base/default/template/paypalplus/
+app/locale/de_DE/Iways_PayPalPlus.csv                           app/locale/de_DE/Iways_PayPalPlus.csv
