@@ -1,0 +1,12 @@
+{
+  "name": "iways/pay-pal-plus",
+  "description": "PayPalPlus Integration von Iways",
+  "type": "magento-module",
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "*"
+  },
+  "extra": {
+    "installer-name": "Iways-PayPalPlus"
+  }
+}
